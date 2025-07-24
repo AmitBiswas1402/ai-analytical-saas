@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "AI Analytical App" },
+    { title: "Resumind - AI Analytics App" },
     { name: "description", content: "Welcome to React Router!" },
   ];
 }
